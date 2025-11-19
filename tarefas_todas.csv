@@ -1,0 +1,23 @@
+id,nome,categoria,dur_min,prioridade,beneficio
+1,Treino manhã,pessoal,45,7,8
+2,Reunião equipe,profissional,60,9,9
+3,Meditação,pessoal,15,5,5
+4,Entregar relatório,profissional,90,8,8
+5,Almoço saudável,pessoal,40,6,6
+6,Call cliente,profissional,30,8,7
+7,Estudo curso,pessoal,50,6,7
+8,Planejar sprint,profissional,45,7,8
+9,Pagar contas,pessoal,20,4,3
+10,Revisar código,profissional,70,7,8
+11,Caminhada,pessoal,30,5,5
+12,Mentoria,profissional,50,6,6
+13,Telefonar família,pessoal,25,6,7
+14,Backup dados,profissional,20,3,2
+15,Dormir soneca,pessoal,20,4,4
+16,Organizar e-mail,profissional,35,5,4
+17,Ler artigo,pessoal,40,4,5
+18,Atualizar planilha,profissional,25,5,5
+19,Cozinhar jantar,pessoal,60,7,8
+20,Networking,profissional,30,6,6
+21,Sessão terapia,pessoal,50,8,9
+22,Atualizar portfólio,profissional,80,4,5
