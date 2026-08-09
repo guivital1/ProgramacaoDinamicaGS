@@ -38,6 +38,13 @@ activity data → benefit scoring → task ordering → optimized schedule → v
 
 Open [`gs.ipynb`](gs.ipynb) to inspect the full code, charts, assumptions, and generated outputs.
 
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+jupyter notebook gs.ipynb
+```
+
 Academic team project by Erik Kaiyu, Guilherme Vital and Lucas Guerreiro.
 
 <p align="center"><sub>Optimization · wellbeing data · decision support</sub></p>
